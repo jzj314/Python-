@@ -1,0 +1,4 @@
+#python中的主要基本数据类型是数字（整数和浮点数），布尔值和字符串
+# Strings can be enclosed by ',", or """
+print('Hello World!')
+print("Hello World!")
