@@ -5,3 +5,10 @@ print('Hello World!')
 print("Hello World!")
 
 # "/n"表示新的一行； "/t"表示空格
+
+# 不同 .methodName()的作用
+firstVariable = 'Hello World'
+print(firstVariable)
+print(firstVariable.lower())
+print(firstVariable.upper())
+print(firstVariable.title())
